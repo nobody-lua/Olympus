@@ -65,16 +65,16 @@ jobs:
               "Description": "Apollo: An intelligent White Mage rotation assistant that handles healing, damage, defensive cooldowns, and resource management with full level-sync awareness.",
               "ApplicableVersion": "any",
               "CategoryTags": ["jobs"],
-              "RepoUrl": "https://github.com/RoseOfficial/Olympus",
+              "RepoUrl": "https://github.com/nobody-lua/Olympus",
               "AssemblyVersion": "${{ steps.version.outputs.version }}",
               "DalamudApiLevel": 14,
               "IconUrl": "",
               "ImageUrls": [],
               "IsHide": false,
               "IsTestingExclusive": false,
-              "DownloadLinkInstall": "https://github.com/RoseOfficial/Olympus/releases/download/${{ github.ref_name }}/Olympus.zip",
-              "DownloadLinkTesting": "https://github.com/RoseOfficial/Olympus/releases/download/${{ github.ref_name }}/Olympus.zip",
-              "DownloadLinkUpdate": "https://github.com/RoseOfficial/Olympus/releases/download/${{ github.ref_name }}/Olympus.zip"
+              "DownloadLinkInstall": "https://github.com/nobody-lua/Olympus/releases/download/${{ github.ref_name }}/Olympus.zip",
+              "DownloadLinkTesting": "https://github.com/nobody-lua/Olympus/releases/download/${{ github.ref_name }}/Olympus.zip",
+              "DownloadLinkUpdate": "https://github.com/nobody-lua/Olympus/releases/download/${{ github.ref_name }}/Olympus.zip"
             }
           ]
           EOF
@@ -109,5 +109,5 @@ jobs:
           description: |
             ${{ steps.changelog.outputs.notes }}
 
-            **[Download from GitHub](https://github.com/RoseOfficial/Olympus/releases/tag/${{ github.ref_name }})** • Refresh your plugin list to update
+            **[Download from GitHub](https://github.com/nobody-lua/Olympus/releases/tag/${{ github.ref_name }})** • Refresh your plugin list to update
           color: 0x5865F2

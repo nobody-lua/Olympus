@@ -7,15 +7,15 @@
     "Description": "Apollo: An intelligent White Mage rotation assistant that handles healing, damage, defensive cooldowns, and resource management with full level-sync awareness.",
     "ApplicableVersion": "any",
     "CategoryTags": ["jobs"],
-    "RepoUrl": "https://github.com/RoseOfficial/Olympus",
+    "RepoUrl": "https://github.com/nobody-lua/Olympus",
     "AssemblyVersion": "4.10.6",
     "DalamudApiLevel": 14,
     "IconUrl": "",
     "ImageUrls": [],
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/RoseOfficial/Olympus/releases/download/v4.10.6/Olympus.zip",
-    "DownloadLinkTesting": "https://github.com/RoseOfficial/Olympus/releases/download/v4.10.6/Olympus.zip",
-    "DownloadLinkUpdate": "https://github.com/RoseOfficial/Olympus/releases/download/v4.10.6/Olympus.zip"
+    "DownloadLinkInstall": "https://github.com/nobody-lua/Olympus/releases/download/v4.10.6/Olympus.zip",
+    "DownloadLinkTesting": "https://github.com/nobody-lua/Olympus/releases/download/v4.10.6/Olympus.zip",
+    "DownloadLinkUpdate": "https://github.com/nobody-lua/Olympus/releases/download/v4.10.6/Olympus.zip"
   }
 ]
